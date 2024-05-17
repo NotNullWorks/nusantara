@@ -1,2 +1,1 @@
-# nusantara
-The Nusantara  programming language
+# The Nusantara Programming Language
